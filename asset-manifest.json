@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bh-li-law-website/static/css/main.019b0cb9.css",
+    "main.js": "/bh-li-law-website/static/js/main.4949ab0d.js",
+    "static/media/bhililogo.png": "/bh-li-law-website/static/media/bhililogo.b91f3af2dbfba01b9098.png",
+    "index.html": "/bh-li-law-website/index.html",
+    "main.019b0cb9.css.map": "/bh-li-law-website/static/css/main.019b0cb9.css.map",
+    "main.4949ab0d.js.map": "/bh-li-law-website/static/js/main.4949ab0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.019b0cb9.css",
+    "static/js/main.4949ab0d.js"
+  ]
+}
