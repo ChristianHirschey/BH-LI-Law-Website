@@ -1,5 +1,7 @@
 import React from 'react';
 
+// FIXME: Add content
+
 function AboutUs() {
   return (
     <div className="container mx-auto p-4">
